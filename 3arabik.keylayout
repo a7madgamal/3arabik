@@ -1,8 +1,8 @@
 <?xml version="1.1" encoding="UTF-8"?>
 <!DOCTYPE keyboard SYSTEM "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--3arabik v0.0.1-->
+<!--3arabik v1.0.1-->
 <!---->
-<!--Last edited by Ukelele version 3.4.0.300 on 2020-02-02 at 06:03 (CET)-->
+<!--Last edited by Ukelele version 3.4.0.300 on 2020-02-02 at 07:47 (CET)-->
 <keyboard group="126" id="-21207" name="3arabik" maxout="2">
     <layouts>
         <layout first="0" last="17" mapSet="ANSI" modifiers="Modifiers"/>
@@ -149,19 +149,19 @@
             <key code="0" output="أ"/>
             <key code="1" output="ص"/>
             <key code="2" output="ض"/>
-            <key code="3" output=""/>
+            <key code="3" output="ف"/>
             <key code="4" output="ة"/>
-            <key code="5" output=""/>
+            <key code="5" output="ج"/>
             <key code="6" output="ظ"/>
-            <key code="7" output="X"/>
-            <key code="8" output="C"/>
-            <key code="9" output="V"/>
-            <key code="11" output="پ"/>
-            <key code="12" output="Q"/>
-            <key code="13" output="W"/>
+            <key code="7" output="كس"/>
+            <key code="8" output="س"/>
+            <key code="9" output="ڨ"/>
+            <key code="11" output="ب"/>
+            <key code="12" output="ق"/>
+            <key code="13" output="و"/>
             <key code="14" output="إ"/>
-            <key code="15" output="R"/>
-            <key code="16" output="Y"/>
+            <key code="15" output="ر"/>
+            <key code="16" output="ي"/>
             <key code="17" output="ط"/>
             <key code="18" output="!"/>
             <key code="19" output="@"/>
@@ -176,22 +176,22 @@
             <key code="28" output="*"/>
             <key code="29" output=")"/>
             <key code="30" output="}"/>
-            <key code="31" output="O"/>
-            <key code="32" output="U"/>
+            <key code="31" output="ؤ"/>
+            <key code="32" output="ى"/>
             <key code="33" output="{"/>
-            <key code="34" output="I"/>
-            <key code="35" output="P"/>
+            <key code="34" output="إ"/>
+            <key code="35" output="پ"/>
             <key code="36" output="&#x000D;"/>
-            <key code="37" output="L"/>
-            <key code="38" output=""/>
+            <key code="37" output="ل"/>
+            <key code="38" output="ج"/>
             <key code="39" output="&#x0022;"/>
-            <key code="40" output=""/>
+            <key code="40" output="ق"/>
             <key code="41" output=":"/>
             <key code="42" output="|"/>
             <key code="43" output="&#x003C;"/>
             <key code="44" output="?"/>
-            <key code="45" output="N"/>
-            <key code="46" output="M"/>
+            <key code="45" output="اً"/>
+            <key code="46" output="م"/>
             <key code="47" output="&#x003E;"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" output=" "/>
