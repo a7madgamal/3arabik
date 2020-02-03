@@ -1,29 +1,26 @@
 # 3arabik - عربك
 
-## ما هو عربك?
-هل تمنيت ان تكتب باللغة العربيّة بنفس سرعة كتابة الحروف اللاتينية?
-هل تعلم اماكن التشكيل على لوحة المفاتيح?
-لا تريد ان تلصق ملصقات على لوحة المفاتيح لمجرد ان تتمكن من الكتابة بالعربية?
+## ?ما هو عربك
+## هل تمنيت ان تكتب باللغة العربيّة بنفس سرعة كتابة الحروف اللاتينية
+## هل تَعْلَم أمَاكِن التّشْكِيل على لَوحَة المَفَاتِيح
+## لا تريد ان تلصق ملصقات على لوحة المفاتيح لمجرد ان تتمكن من الكتابة بالعربية
+!إذا كانت الإجابة نعم فعربك هو الحل
 
-ا
-# كَما يُسهّل جداً الكِتابة بالتَشّكِيل!
+بعد تحميله ستضاف لوحة مفاتيح جديدة و عند تفعيلها ستتغير اماكن الحروف العربية كما موضح بالجدول
+مجاني و مفتوح المصدر للأبد 
 
-### help:
+# التحميل:
 
-a video recording from the old flash-based website www.3arabik.com:
-- https://youtu.be/rsnxFRqjy0k
+# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.2/3arabik_win.zip)
+# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.2/3arabik_mac.dmg)
 
-### latest releases:
-
-# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.1/3arabik_win.zip)
-# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.1/3arabik_mac.dmg)
-
-
+# التحميل:
 | الحرف        | المفتاح           |  او
 | ------------- |:-------------:|:-------------:|
 | `ا` | `a`|  |
 | `أ` | `shift` + `a` | `2` + `a` |
 | `إ` | `shift` + `e` | `2` + `e` |
+| `اً` | `shift` + `n`|  |
 | `ب` | `b` | `p` |
 | `ت` | `t` |  |
 | `ث` | `th`|  |
@@ -71,8 +68,7 @@ a video recording from the old flash-based website www.3arabik.com:
 |`تنوين كسر`| `-` + `e` |
 |`شدّة`| `=` + `=` |
 
-### كيف
+### البرامج المستخدمة 
 http://software.sil.org/ukelele/
 
-- tip: a very easy way to write Arabic or other languages on macos just by speaking (no need for any apps!)
-https://youtu.be/5xQpAlRkqLc
+https://www.microsoft.com/en-us/download/details.aspx?id=22339
