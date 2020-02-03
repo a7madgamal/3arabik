@@ -7,7 +7,7 @@
 	<key>CFBundleName</key>
 	<string>3arabik_mac</string>
 	<key>CFBundleVersion</key>
-	<string>1.2.2</string>
+	<string>1.2.3</string>
 	<key>KLInfo_3arabik</key>
 	<dict>
 		<key>TICapsLockLanguageSwitchCapable</key>
