@@ -11,8 +11,8 @@ a video recording from the old flash-based website www.3arabik.com:
 
 ### latest releases:
 
-# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.0/3arabik_win.zip)
-# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.0/3arabik_mac.dmg)
+# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.1/3arabik_win.zip)
+# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.1/3arabik_mac.dmg)
 
 
 | الحرف        | المفتاح           |  او
