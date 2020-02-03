@@ -1,9 +1,8 @@
 # 3arabik - عربك
 
-## ?ما هو عربك
-## هل تمنيت ان تكتب باللغة العربيّة بنفس سرعة كتابة الحروف اللاتينية
-## هل تَعْلَم أمَاكِن التّشْكِيل على لَوحَة المَفَاتِيح
-## لا تريد ان تلصق ملصقات على لوحة المفاتيح لمجرد ان تتمكن من الكتابة بالعربية
+### هل تمنيت ان تكتب باللغة العربيّة بنفس سرعة كتابة الحروف اللاتينية؟
+### هل تَعْلَم أمَاكِن التّشْكِيل على لَوحَة المَفَاتِيح؟
+### لا تريد ان تلصق ملصقات على لوحة المفاتيح لمجرد ان تتمكن من الكتابة بالعربية؟
 !إذا كانت الإجابة نعم فعربك هو الحل
 
 بعد تحميله ستضاف لوحة مفاتيح جديدة و عند تفعيلها ستتغير اماكن الحروف العربية كما موضح بالجدول
@@ -11,11 +10,11 @@
 
 # التحميل:
 
-# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.2/3arabik_win.zip)
-# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.2/3arabik_mac.dmg)
+# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.3/3arabik_win.zip)
+# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.3/3arabik_mac.dmg)
 
-# التحميل:
-| الحرف        | المفتاح           |  او
+# جدول الحروف:
+| لكتابة        | إضغط           |  او
 | ------------- |:-------------:|:-------------:|
 | `ا` | `a`|  |
 | `أ` | `shift` + `a` | `2` + `a` |
@@ -69,6 +68,6 @@
 |`شدّة`| `=` + `=` |
 
 ### البرامج المستخدمة 
-http://software.sil.org/ukelele/
+[ukelele](http://software.sil.org/ukelele/) ([documentation](https://github.com/a7madgamal/3arabik/blob/master/Ukelele%20Manual%202.2.pdf))
 
-https://www.microsoft.com/en-us/download/details.aspx?id=22339
+[Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
