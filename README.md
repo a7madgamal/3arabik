@@ -11,8 +11,8 @@ a video recording from the old flash-based website www.3arabik.com:
 
 ### latest releases:
 
-# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.1.0/3arabik-win.zip)
-# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.0.1/3arabik-1.0.1.dmg)
+# [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.0/3arabik_win.zip)
+# [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.0/3arabik_mac.dmg)
 
 
 - tip: a very easy way to write Arabic or other languagees on macos just by speaking (no need for any apps!)
