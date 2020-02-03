@@ -3,10 +3,10 @@
 <plist version="1.0">
 <dict>
 	<key>BuildVersion</key>
-	<string>1.2.0</string>
+	<string>1.2.1</string>
 	<key>ProjectName</key>
-	<string>3arabik_bundle</string>
+	<string>3arabik_mac</string>
 	<key>SourceVersion</key>
-	<string>1.2.0</string>
+	<string>1.2.1</string>
 </dict>
 </plist>
