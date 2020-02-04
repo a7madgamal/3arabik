@@ -17,7 +17,7 @@ http://3arabik.com/ (موقع قديم)
 # [windows](https://github.com/a7madgamal/3arabik/releases/download/v1.2.3/3arabik_win.zip)
 # [macos](https://github.com/a7madgamal/3arabik/releases/download/v1.2.3/3arabik_mac.dmg)
 
-# جدول الحروف:
+# :(macos) جدول الحروف
 |  لكتابة     |      إضغط      | او
 |:---:|:--------------:|:-------------:|
 | `ا` | `a`            |               |
