@@ -80,4 +80,4 @@ http://3arabik.com/ (موقع قديم)
 
 [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
 
-xxx
+xx
