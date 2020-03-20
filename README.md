@@ -79,5 +79,3 @@ http://3arabik.com/ (موقع قديم)
 [ukelele](http://software.sil.org/ukelele/) ([documentation](https://github.com/a7madgamal/3arabik/blob/master/Ukelele%20Manual%202.2.pdf))
 
 [Microsoft Keyboard Layout Creator](https://www.microsoft.com/en-us/download/details.aspx?id=22339)
-
-xxhgfdhgfd
